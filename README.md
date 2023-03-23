@@ -1,2 +1,3 @@
 # ossprac
-for Ossprac HW
+This is for Ossprac
+김범수 2019111602
